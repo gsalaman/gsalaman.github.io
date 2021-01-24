@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="C601FADB-88C9-4541-8C4D-BFF050C9E948">
+  <lastEdited clientType="local-build-20210124" date="2021-01-24 14:17:01 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Matthias on the Big Feet</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Thursday, December 30, 2010</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="30_Matthias_on_the_Big_Feet_files/shapeimage_1.png" left="0px" top="0px" width="292px" height="292px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Gunter convinced Matthias to take out the Big Feet today...and to be fair, we waxed &amp; edged &#x2018;em so they were properly tuned.  (Very important for high quality skis like that)  Took him a couple runs to get used to them, but got some good footage in the meanwhile.&#xD;&#xD;The day had some pretty evil wind chill...Max and I bailed after lunch.   </richText>
+  </textBox>
+</content>

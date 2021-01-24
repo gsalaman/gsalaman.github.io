@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="C601FADB-88C9-4541-8C4D-BFF050C9E948">
+  <lastEdited clientType="local-build-20210124" date="2021-01-24 14:17:04 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Max Race + Exploring</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Saturday, February 5, 2011</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="5_Max_Race_+_Exploring_files/shapeimage_1.png" left="0px" top="0px" width="292px" height="292px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Had to try some new tree trails...did the stagecoach trees...not bad.&#xA0; Also explored on the Trestle end of Tophers.&#xA0; The bottom part is good...not too steep, but going in above the cliff leads to some scary stuff.&#xA0; Top was closed all day.&#xA0; :( &#xD;&#xD;Here&#x2019;s the pic of the plaque at tophers:&#xD;</richText>
+  </textBox>
+</content>

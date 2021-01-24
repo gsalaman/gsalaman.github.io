@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="C601FADB-88C9-4541-8C4D-BFF050C9E948">
+  <lastEdited clientType="local-build-20210124" date="2021-01-24 14:16:57 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Meeting up with Matthias, Ray, Tressa, Gunter and Lucille</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Monday, December 27, 2010</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="27_Meeting_up_with_Matthias,_Ray,_Tressa,_Gunter_and_Lucille_files/shapeimage_1.png" left="0px" top="0px" width="293px" height="293px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Woke up to 2" of fresh, so I hit the slopes early.&#xA0; The Pano Trees were better than the bowl, so I did a couple runs there, then headed to eagle wind.&#xA0; Stalked Matthias and Ray, saw they were at Pioneer with Tressa, so headed over there and did a couple nice runs down Gambler and Aces and Eights.&#xA0; Lucille's lesson ended at noon, so we then caught up with them.&#xA0; Gunter came out and did some tele-drills in preparation for his lesson...Tressa and I joined him whilst everyone else did lunch.&#xA0; Had to fetch his poles from under the pony...(did he do that on purpose?)&#xD;Hit a bunch of the mountain...good day! &#xD;</richText>
+  </textBox>
+</content>

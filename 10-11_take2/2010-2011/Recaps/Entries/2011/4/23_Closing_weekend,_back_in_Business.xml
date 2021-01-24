@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="C601FADB-88C9-4541-8C4D-BFF050C9E948">
+  <lastEdited clientType="local-build-20210124" date="2021-01-24 14:16:49 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Closing weekend, back in Business</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="23_Closing_weekend,_back_in_Business_files/shapeimage_1.png" left="0px" top="0px" width="292px" height="292px"/>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Saturday, April 23, 2011</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&#xA0;Got the new phone:&#xA0; an HTC thunderbolt.&#xA0; (Something about working the SW on both chips...eat your own breakfast kinda thing...)&#xA0; Had about 6" on the ground when I woke up.&#xA0; Mom and Max were feeling mellow; did one run down cheshire, then ran off on my own.&#xA0; No pioneer or eagle&#xA0;open...those closed down last week.&#xA0;&#xA0; Bunch of bowl laps, including the upper switchyard stuff.&#xA0; Did lower tophers, weather station, and rettas to close the day.&#xD;</richText>
+  </textBox>
+</content>

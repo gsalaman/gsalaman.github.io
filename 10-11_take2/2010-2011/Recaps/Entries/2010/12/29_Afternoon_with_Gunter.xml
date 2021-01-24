@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="C601FADB-88C9-4541-8C4D-BFF050C9E948">
+  <lastEdited clientType="local-build-20210124" date="2021-01-24 14:16:56 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Afternoon with Gunter</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Wednesday, December 29, 2010</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="29_Afternoon_with_Gunter_files/shapeimage_1.png" left="0px" top="0px" width="292px" height="292px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Playing around in the afternoon...do or die trees, some pioneer speed trails, couple laps through the terrain park, and ending on long-haul/short-haul. </richText>
+  </textBox>
+</content>

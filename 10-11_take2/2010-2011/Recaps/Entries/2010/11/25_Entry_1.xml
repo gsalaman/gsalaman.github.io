@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="C601FADB-88C9-4541-8C4D-BFF050C9E948">
+  <lastEdited clientType="local-build-20210124" date="2021-01-24 14:17:14 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Thanksgiving with Gunter and Max</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Thursday, November 25, 2010</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="25_Entry_1_files/shapeimage_1.png" left="0px" top="0px" width="302px" height="302px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>A very cold day at winter park, but great snow for early season!&#xA0; They had all lifts running *but* the pano, eagle, and iron horse.&#xA0; Did a couple "hot chocolate" breaks with max to keep him warm.&#xD;&#xD;Two movies for today...the first, Outhouse!</richText>
+  </textBox>
+</content>

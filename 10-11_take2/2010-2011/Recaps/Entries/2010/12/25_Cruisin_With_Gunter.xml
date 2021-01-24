@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="C601FADB-88C9-4541-8C4D-BFF050C9E948">
+  <lastEdited clientType="local-build-20210124" date="2021-01-24 14:17:01 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Cruisin&#x2019; With Gunter</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Saturday, December 25, 2010</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="25_Cruisin_With_Gunter_files/shapeimage_1.png" left="0px" top="0px" width="298px" height="298px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>After presents, Gunter and I headed over to do some &#x201C;lighter&#x201D; skiing.  Did a bunch of the easier trees, and *had* to do some bumps.  My favorite part of the day:  cruising over at pioneer.  Gunter was working on Tele drills, so we tried a &#x201C;2-lap/3-lap&#x201D; interleaving.  I tried to &#x201C;gain&#x201D; as many chairs as I could...typically for those speed runs, it was around 30+ chairs.  Looking at Phresheez, my speeds were in the 35-40 mph range.  Note in the vid below, this is &#x201C;real time&#x201D;...no speeding up.  Fun! </richText>
+  </textBox>
+</content>

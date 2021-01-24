@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="C601FADB-88C9-4541-8C4D-BFF050C9E948">
+  <lastEdited clientType="local-build-20210124" date="2021-01-24 14:17:14 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Opening Weekend</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Saturday, November 20, 2010</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Starting out the day, had a work fire explode.  Did some business from the lift, but I couldn&#x2019;t risk running Phresheez on the Droid and not being able to do email/phone.  Note, I fixed that shortly thereafter by getting a spare battery for the Droid and keeping both charged.&#xD;&#xD;Played around a little with helmet-cam.  Got some good shots of Max doing Retta&#x2019;s, at least until he took a major fall (way in front of me).  That pretty much ended his day; I ended up playing around a little more in the trees.</richText>
+  </textBox>
+</content>

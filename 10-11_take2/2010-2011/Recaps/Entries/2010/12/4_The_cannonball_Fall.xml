@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="C601FADB-88C9-4541-8C4D-BFF050C9E948">
+  <lastEdited clientType="local-build-20210124" date="2021-01-24 14:17:10 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>The Cannonball Fall</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Saturday, December 4, 2010</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="4_The_cannonball_Fall_files/shapeimage_1.png" left="0px" top="0px" width="305px" height="305px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Max's first day in Park Sharks.&#xA0; Alli and I skiied together in the morning, hitting the trees under hi-lo, and heading over to vasquez. Hit a bunch of bumps after that...including one *spectacular* fall on cannonball.&#xA0; Unfortunately, didn&#x2019;t catch it on film.  Took a corner too fast, went airborn, landed, and slammed my heel on a rock.  (I think it was one of the two &#x201C;cannonballs&#x201D; that are the namesake of the run.  Got an evil bruise outta that one.  That stinger stayed with me the whole season.&#xD;</richText>
+  </textBox>
+</content>

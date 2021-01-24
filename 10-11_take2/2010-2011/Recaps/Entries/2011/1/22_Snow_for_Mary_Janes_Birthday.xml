@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="C601FADB-88C9-4541-8C4D-BFF050C9E948">
+  <lastEdited clientType="local-build-20210124" date="2021-01-24 14:16:58 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Snow for Mary Jane&#x2019;s Birthday</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Saturday, January 22, 2011</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="22_Snow_for_Mary_Janes_Birthday_files/shapeimage_1.png" left="0px" top="0px" width="297px" height="297px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Woke up to a couple inches of fresh pow,&#xA0;and it snowed all day. &#xA0;Dropped Max off at the sharks, then Matthias and I did Outhouse as the warmup.&#xA0; Good stuff!&#xA0; Met up with Alli, Lucille, and Gunter over on the Jane side...Alli was skiing in&#xA0;her "MJ" dress (very cool!!!)&#xA0;&#xA0;Twas windy, so Pano and Eagle Wind were closed.&#xA0; They all stopped for lunch, but I skied through it...they opened the eagle wind trails (even though the lifts were closed), so I had to do a couple old-school laps through there.&#xA0; AWESOME snow back there...I was second-tracks the first time through.&#xA0; Awesome day!!! &#xD;</richText>
+  </textBox>
+</content>

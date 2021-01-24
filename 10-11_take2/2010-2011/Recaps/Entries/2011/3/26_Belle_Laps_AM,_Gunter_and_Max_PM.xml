@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="C601FADB-88C9-4541-8C4D-BFF050C9E948">
+  <lastEdited clientType="local-build-20210124" date="2021-01-24 14:16:48 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Belle Laps AM, Gunter PM</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Saturday, March 26, 2011</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="26_Belle_Laps_AM,_Gunter_and_Max_PM_files/shapeimage_1.png" left="0px" top="0px" width="285px" height="285px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Woke up to only an inch or two at the house, but WP claimed 7.&#xA0; Ditched out early, got my first chair at 8:35.&#xA0; Did a lap through the bowl and kinikinick, then did a bunch of Bella laps.&#xA0; Snagged my jacket on a tree; had ski patrol help me patch it up with some athletic tape.&#xA0; Met up with Gunter around noon...did some Eagle Wind laps, then headed down to Pioneer, and did a bunch of the tree runs in there.</richText>
+  </textBox>
+</content>

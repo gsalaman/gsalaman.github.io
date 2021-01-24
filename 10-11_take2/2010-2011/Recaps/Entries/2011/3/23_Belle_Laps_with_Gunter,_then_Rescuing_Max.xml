@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="C601FADB-88C9-4541-8C4D-BFF050C9E948">
+  <lastEdited clientType="local-build-20210124" date="2021-01-24 14:16:49 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Belle Laps with Gunter, then Rescuing Max </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Wednesday, March 23, 2011</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="23_Belle_Laps_with_Gunter,_then_Rescuing_Max_files/shapeimage_1.png" left="0px" top="0px" width="298px" height="298px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Decent snow, but max didn't wanna do the top, so he stuck with Mom as Gunter and I did some laps through Belle &amp; Eagle Wind.&#xA0; Met up with them later; Gunter and I took max (as he was driving Mom crazy!)  Went all over...Max *loves* following Gunter through the trees!!! </richText>
+  </textBox>
+</content>

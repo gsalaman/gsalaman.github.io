@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="C601FADB-88C9-4541-8C4D-BFF050C9E948">
+  <lastEdited clientType="local-build-20210124" date="2021-01-24 14:17:08 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>The Day After the Storm </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Sunday, January 23, 2011</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="23_The_Day_After_the_Storm_files/shapeimage_1.png" left="0px" top="0px" width="303px" height="303px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Jane was crazy in the morning, as everyone was trying to get to the fresh from yesterday's dump.&#xA0; Matthias and I did Belle...good snow there, but Matthias hit a rock and got a core shot (bummer!).&#xA0; </richText>
+  </textBox>
+</content>

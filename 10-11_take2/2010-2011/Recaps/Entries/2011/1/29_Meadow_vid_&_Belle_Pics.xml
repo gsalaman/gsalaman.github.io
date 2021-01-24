@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="C601FADB-88C9-4541-8C4D-BFF050C9E948">
+  <lastEdited clientType="local-build-20210124" date="2021-01-24 14:17:05 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Meadow vid &amp; Belle Pics</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Saturday, January 29, 2011</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="29_Meadow_vid_%26_Belle_Pics_files/shapeimage_1.png" left="0px" top="0px" width="299px" height="299px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Warm day...skiied with Alli in the morning, then ran off in the afternoon.  Finally got the meadow; ran into a lost snowboarder in there.  Headed over and did a lap through Belle; much more cut up than it was last week with Matthias (and they marked that rock). &#xD;&#xD;Here&#x2019;s a couple pics from Belle:</richText>
+  </textBox>
+</content>

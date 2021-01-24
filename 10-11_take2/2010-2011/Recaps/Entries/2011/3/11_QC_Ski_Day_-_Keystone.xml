@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="C601FADB-88C9-4541-8C4D-BFF050C9E948">
+  <lastEdited clientType="local-build-20210124" date="2021-01-24 14:16:51 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>QC Ski Day - Keystone</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Friday, March 11, 2011</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="11_QC_Ski_Day_-_Keystone_files/shapeimage_1.png" left="0px" top="0px" width="288px" height="288px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Started the day with some warmup-runs with Bhavna, Simon, Lucille, Mark, Rick, and others.  Then went to the Outback, met up with PJ, and did some bumps with him and Mark and Rick.  After a couple runs there, Mark and Rick split off, and PJ and I played in the Black Forest area.  Pretty cool back there...similar to Eagle Wind.  Met up with Bijan, and did some other laps there.  &#xD;&#xD;Started to get tired, met up with Bhavna and crew for some more cruiser runs (and one mini-bump run).  Back to the bus, and a typical ride home.</richText>
+  </textBox>
+</content>

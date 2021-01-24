@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="C601FADB-88C9-4541-8C4D-BFF050C9E948">
+  <lastEdited clientType="local-build-20210124" date="2021-01-24 14:16:48 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>The Challenger Challange</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Thursday, December 23, 2010</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="23_The_Challenger_Challange_files/shapeimage_1.png" left="0px" top="0px" width="287px" height="287px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Gunter and I try and do all the black runs under the c-lift...needless to say I was *really* sore after that.  He convinced me to try the chutes early in the day...I&#x2019;m still not ready for that.  Too narrow, too many rocks, and *way* too steep.  After a couple turns, I traversed through the trees to Runaway.&#xD;&#xD;The other milestone...it&#x2019;s getting towards the end of the day, and Gunter convinces me to try and find Gaz&#x2019;s Gate.  I agree (foolishly).  We do the turn-off from roundhouse, and start climbing up.  There&#x2019;s a fork, and since we&#x2019;re both tired of skating uphill, we take the lower branch, which leads us to a cliff.  Not enough room to get your skis sideways.  We both end up taking our skis off and scooting down...not really much fun.  With all that, I&#x2019;m not agreeing to a crazy &#x201C;lets do this!&#x201D; until 2012!   &#xD;</richText>
+  </textBox>
+</content>

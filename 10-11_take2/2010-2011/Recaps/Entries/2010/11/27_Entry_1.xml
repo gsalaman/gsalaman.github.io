@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="C601FADB-88C9-4541-8C4D-BFF050C9E948">
+  <lastEdited clientType="local-build-20210124" date="2021-01-24 14:17:17 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>First try: Max Cam</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Saturday, November 27, 2010</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="27_Entry_1_files/shapeimage_1.png" left="0px" top="0px" width="299px" height="301px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Day #3...Max wants to come out with Gunter and me.&#xA0; Tried the trees off Stagecoach...a little too windblown.&#xA0; Gambler was good though...put the helmet cam on max and had him bomb that run!&#xA0; Also spent some time over at Jane...Boiler was in really good shape.&#xA0;&#xD;</richText>
+  </textBox>
+</content>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="C601FADB-88C9-4541-8C4D-BFF050C9E948">
+  <lastEdited clientType="local-build-20210124" date="2021-01-24 14:16:54 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>The Kids</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Saturday, April 2, 2011</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Large crew descended on Winter Park...the full Stephens&#x2019;, QJ, Pei, and Sarah, and Didi, Uli, Lara, and Lucas.  Did some laps under Pano...got some fun footage there.  Gunter and I tried to convince Michelle to go do some bumps instead of doing lunch, but alas, to no avail.  &#xD;&#xD;We went and did some bump laps, but it was getting *really* warm.  My waxing skills can deal with about 50F, but past that, and things get sticky.  At that point, I wasn&#x2019;t really having fun anymore, so I headed back to the car...and realized that I had lost my loaner cell phone!  Bummer!  The good news is that someone found it and turned it in, so I didn&#x2019;t have to look like a major klutzoid to Greg.</richText>
+  </textBox>
+</content>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="C601FADB-88C9-4541-8C4D-BFF050C9E948">
+  <lastEdited clientType="local-build-20210124" date="2021-01-24 14:17:03 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Lighter Day With Max and Gunter</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Sunday, February 13, 2011</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="13_Lighter_Day_With_Max_and_Gunter_files/shapeimage_1.png" left="0px" top="0px" width="299px" height="299px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Gunter came out for Boys weekend (Alli doing rugby).  Max was &#x201C;iffy&#x201D; today...but we convinced him to to a half day.  Met up with Matthias, put the camera on Max and let him cruise around...that definitely lifted his spirits.  </richText>
+  </textBox>
+</content>

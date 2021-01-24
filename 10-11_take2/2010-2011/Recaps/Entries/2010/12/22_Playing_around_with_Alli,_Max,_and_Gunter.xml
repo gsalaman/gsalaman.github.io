@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="C601FADB-88C9-4541-8C4D-BFF050C9E948">
+  <lastEdited clientType="local-build-20210124" date="2021-01-24 14:16:57 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Playing around with Alli, Max, and Gunter</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Wednesday, December 22, 2010</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="22_Playing_around_with_Alli,_Max,_and_Gunter_files/shapeimage_1.png" left="0px" top="0px" width="299px" height="299px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Another fun day...did some laps under Eagle Wind and Pioneer, then headed over to Jane.  Did a run down Runaway, where someone almost took Gunter out (nice dodging!)  Played around under Pano for a while, then broke off and hit the Franken-run with Gunter. </richText>
+  </textBox>
+</content>

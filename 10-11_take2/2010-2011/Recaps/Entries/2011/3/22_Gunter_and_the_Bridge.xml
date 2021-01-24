@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="C601FADB-88C9-4541-8C4D-BFF050C9E948">
+  <lastEdited clientType="local-build-20210124" date="2021-01-24 14:16:55 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Gunter and the Bridge</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Tuesday, March 22, 2011</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="22_Gunter_and_the_Bridge_files/shapeimage_1.png" left="0px" top="0px" width="294px" height="294px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&#xA0;Woke up to 5.5" on the ground...enough to cover the icy bumps.&#xA0; Gunter, Max and I headed out early...did a BUNCH of trees and fresh tracks.&#xA0; Tried to get over to Eagle Wind, but although they said the run was open, it was roped off (so we had to ditch into the switchyard trees).&#xA0; Showed them the brakeman trees, did lower tophers, the frenchman trees, the do-or-die trees...all good!&#xD;&#xD;And, the highlight:  Gunter does the bridge between Cranmer and Outrigger! </richText>
+  </textBox>
+</content>

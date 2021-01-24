@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="C601FADB-88C9-4541-8C4D-BFF050C9E948">
+  <lastEdited clientType="local-build-20210124" date="2021-01-24 14:17:02 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Max Day!</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Tuesday, December 28, 2010</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="28_Max_Day%21_files/shapeimage_1.png" left="0px" top="0px" width="298px" height="298px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Alli and Gunter had a lesson with Jay, so Max and I played around.  Did some bumps, met up with Matthias and Lucille, and then joined Ray and Tressa. </richText>
+  </textBox>
+</content>

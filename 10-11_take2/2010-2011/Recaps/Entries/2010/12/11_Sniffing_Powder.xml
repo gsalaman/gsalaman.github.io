@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="C601FADB-88C9-4541-8C4D-BFF050C9E948">
+  <lastEdited clientType="local-build-20210124" date="2021-01-24 14:17:12 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Sniffing Powder</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Saturday, December 11, 2010</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="11_Sniffing_Powder_files/shapeimage_1.png" left="0px" top="0px" width="297px" height="297px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Good snow...little dump the night before.&#xA0; Ran around with the s7s looking for good powder stashes.  Decent stuff on aces and eights, primrose, and the trees above Edelweiss.</richText>
+  </textBox>
+</content>

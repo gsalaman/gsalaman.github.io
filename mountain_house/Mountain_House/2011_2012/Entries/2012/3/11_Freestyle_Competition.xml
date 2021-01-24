@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="A1219B8D-2973-46FD-8BB1-40BCF8C95E47">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:15:53 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Freestyle Competition&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, March 11, 2012&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Gunter came out again for the weekend...snow at WP is also starting to get sketchy.  We need more snow badly, and nothing significant is in the forecast.&#xD;&#xD;Sunday was another freestyle comp...Max wanted to do the Parkway course again.  This time they had it set up to be bumps to a decent jump.  Film below...Max placed 8th.&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="11_Freestyle_Competition_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

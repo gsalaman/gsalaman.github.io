@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="FDDC2949-73CB-4522-8920-DDA5BFA3F56E">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:16:55 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Surprise Powder Day&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, December 29, 2013&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;The weather report called for maybe 2 inches...woke up, looked out at the deck, and saw about 4.  Checked the WP site:  9.5&#x201D;!!!  Headed out early...Alli came with.&#xD;&#xD;First run:  tracks through Trestle.  Next:  Upper Switchyard trees...untracked.  Then over to Eagle; they&#x2019;ve only got Thunderbird and a little bit of Little Raven open, so it got tracked out pretty quick.  Spent the rest of the day playing around in all the usual tree spots...including exploring the cannonball trees.&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="29_Entry_1_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

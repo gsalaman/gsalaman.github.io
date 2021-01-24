@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="A1219B8D-2973-46FD-8BB1-40BCF8C95E47">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:15:45 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;5.5&#x201D; never looked so good&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Thursday, December 22, 2011&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Woke up to a little more snow than expected.  The weather report said 1-15degF, so Alli and Max decided to stay home.  I dropped some CH6 on the S7s, and convinced G&#xFC;nter to come out early.  Some places were &#x201C;dust on crust&#x201D;, but the HiLo trees were pretty good.  They opened up Cheshire Cat (yay!), and we caught rope drops on Phantom Bridge and Bradley&#x2019;s Bash.  &lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="22_5.5_never_looked_so_good_files/shapeimage_1.png" left="0px" top="0px" width="304px" height="304px"/>
+</content>

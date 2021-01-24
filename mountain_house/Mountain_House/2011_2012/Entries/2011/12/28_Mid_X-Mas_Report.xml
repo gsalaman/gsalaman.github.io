@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="A1219B8D-2973-46FD-8BB1-40BCF8C95E47">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:15:46 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Mid X-Mas Report&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, December 28, 2011&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;No snow for a week....but still skiing.  Alli says she&#x2019;s gonna continue to ski in the dress until it snows. &#xD;&#xD;Took off early today to hit some runs....WP opened Pioneer earlier in the week (even though no new snow...), and reported Spike, Sterling, and Narrow Gauge open.  The bad news...other than Narrow Gauge, all of it was *VERY* sketchy...I don&#x2019;t think they really should have opened &#x2018;em up.   Here&#x2019;s a pic from the newly opened Rainbow Cut bottom:&#xD;&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="28_Mid_X-Mas_Report_files/shapeimage_1.png" left="0px" top="0px" width="302px" height="302px"/>
+</content>

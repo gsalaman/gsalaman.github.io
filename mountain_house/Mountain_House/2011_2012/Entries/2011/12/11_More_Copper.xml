@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="A1219B8D-2973-46FD-8BB1-40BCF8C95E47">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:15:44 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;More Copper&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, December 11, 2011&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;No real snow for a while at WP...they did open the top of Hughes this weekend, and I see from the website that they have Olympia and whistlestop running as of 12/12, but still no Jane or Hi-Lo.  The weather report says potential for a smaller dump this week, but same &#x201C;south&#x201D; pattern, so we&#x2019;re probably not gonna get much outta it.   &#xD;&#xD;Copper&#x2019;s been doing a good job keeping up with their snowmaking...they&#x2019;ve got a bunch of stuff open off timberline, as well as the cruisers under super bee.  Did another day trip...having that much terrain open makes it *much* more fun than dodging crowds at WP.  Funny though, the ungroomed stuff off timberline had a lot of nasties sticking out...including the green soliloquy.  That run had a spot with some pretty big bumps...I wouldn&#x2019;t wanna take a newbie down there.  &#xD;&#xD;The blacks off of Excellerator were decent.   Did have to dodge some stuff, but at least you could get some bump work in.  They had Hallelujah open most of the day, and opened up Mine Dump at about 1:30.  I did a couple runs in there before my legs were shot.&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="11_More_Copper_files/shapeimage_1.png" left="0px" top="0px" width="302px" height="303px"/>
+</content>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="88A9F09D-FD44-4A1E-9657-DEA0E35D8384">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:16:06 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Mary Jane Opens&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, December 15, 2012&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;After the snow last weekend, they opened the top of Olympia on monday...and then Jane opened on thursday.  They had Jane Trail, Narrow Gauge, the bottom of sterling and spike, and a few runs under Hi-Lo.  Alli went up and made an appearance with the Mayor...whilst the WP page doesn&#x2019;t acknowledge her existence, the &lt;/b&gt;&lt;b&gt;&lt;a href="http://www.skyhidailynews.com/article/20121213/COLUMNISTS/121219975/1079&amp;parentprofile=1067"&gt;Sky-High Daily News&lt;/a&gt;&lt;/b&gt;&lt;b&gt; does.&#xD;&#xD;I made it out on saturday...Alli was feeling a little under-the-weather, and max had coaching.  Jane was a little sketchy, but the Hi-Lo trees had promise.  I&#x2019;m gonna have to make it back out tomorrow with S7s.  :)  They were running the olympia, so hope burns eternal that they hit the bottom of those runs.  Jabberwocky was pretty good...smaller bumps, but not too many nasties.  Bash, Balsh, and the Jane blacks were all evil.  Charts: &#xD;&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="15_Mary_Jane_Opens_files/shapeimage_1.png" left="0px" top="0px" width="538px" height="391px"/>
+</content>

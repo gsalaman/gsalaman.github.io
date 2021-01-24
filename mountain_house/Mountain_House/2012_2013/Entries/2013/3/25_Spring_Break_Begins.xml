@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="88A9F09D-FD44-4A1E-9657-DEA0E35D8384">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:16:20 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Spring Break Begins&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, March 25, 2013&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Took the week off for spring break up at Winter Park.  Day #1:  Max had his last day of comp center, and I practiced finding the 3 level hut at Topers.   Had a bunch of good laps through Eagle and Belle.  No vid, but stats below:&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="25_Spring_Break_Begins_files/shapeimage_1.png" left="0px" top="0px" width="334px" height="440px"/>
+</content>

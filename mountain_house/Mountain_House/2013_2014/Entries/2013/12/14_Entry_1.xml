@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="FDDC2949-73CB-4522-8920-DDA5BFA3F56E">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:16:52 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Trestle and the Top&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, December 14, 2013&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;We weren&#x2019;t expecting any new snow, but woke up to 4&#x201D;.  At that point, I had to run downstairs and prep the S7s.  :)&#xD;&#xD;Spent the morning with Alli...headed up to Pano.  Did a couple runs up there, but the snow was in a weird state, so we bailed fairly quickly.  Trestle was open, and was glorious!  Hadn&#x2019;t been tracked out, so the face was more similar to the headwalls than giant moguls with rocks.  Fun!  Did a run through the newly opened Boiler...good conditions there too.&#xD;&#xD;After lunch, headed over to Pioneer (good snow), and after Alli bailed, headed back to the Jane side for some more runs.  Good day!&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="14_Entry_1_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

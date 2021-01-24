@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="88A9F09D-FD44-4A1E-9657-DEA0E35D8384">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:16:27 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Powder Day&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, April 14, 2013&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Max got sick on friday, so he didn&#x2019;t want to come up this weekend.  Alli was good with me going solo...I was tracking a storm supposed to come in on Saturday night.  Spent saturday in spring conditions; met up with Matthias and did some more slushy bumps.  Sunday didn&#x2019;t disappoint...woke up to 10&#x201D;!!!  Hit MJ early, got in line at 8:20, and snagged 10th chair going up.  &lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="14_Powder_Day_files/shapeimage_1.png" left="0px" top="0px" width="307px" height="310px"/>
+</content>

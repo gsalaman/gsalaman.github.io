@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="88A9F09D-FD44-4A1E-9657-DEA0E35D8384">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:16:24 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Last Day of Spring Break&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, March 31, 2013&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Last day before Gunter had to go back (and I had to hit work).  Definitely spring conditions...icy mornings and slushy afternoons, so we got a late start.  Brought out both the new Rocker2&#x2019;s and the S7s...but only used the S7s.  Started with a couple warm-up laps  under the C-lift, including Gunter doing Hole-in-the-Wall.&#xD;&#xD;Ended up hiking the cirque *twice* today...once to pick up the west headwall, and once over on Destiny, where we continued through to waterfall.  Cool stuff back there...but a little slushy.  Can&#x2019;t wait to try it sometime when there&#x2019;s less-baked snow!&#xD;&#xD;Also nabbed Belle and Brian&#x2019;s Run.   Good stuff...but yes, I&#x2019;m sore!!!&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="31_Last_Day_of_Spring_Break_files/shapeimage_1.png" left="0px" top="0px" width="450px" height="374px"/>
+</content>

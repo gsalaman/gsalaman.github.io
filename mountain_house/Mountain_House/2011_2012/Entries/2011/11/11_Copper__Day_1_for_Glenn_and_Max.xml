@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="A1219B8D-2973-46FD-8BB1-40BCF8C95E47">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:15:40 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Copper:  Day 1 for Glenn and Max&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, November 11, 2011&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Mom&#x2019;s out of town, Max has veteran&#x2019;s day off, so we decide to hit Copper.  Max had never been there before, so he dug it...even though there were really only two trails open.  Main Vein under the American Eagle was okay...at least it has a little pitch to it.  Excelerator was also open, serving race-only Copperopolis, and Ptarmigan, which eventually grew some mini-bumps.&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="11_Copper__Day_1_for_Glenn_and_Max_files/shapeimage_1.png" left="0px" top="0px" width="300px" height="297px"/>
+</content>

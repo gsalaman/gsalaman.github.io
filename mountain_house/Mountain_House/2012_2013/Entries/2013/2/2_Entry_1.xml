@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="88A9F09D-FD44-4A1E-9657-DEA0E35D8384">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:16:12 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Eagle Wind&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, February 2, 2013&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Had a few shots of snow this week...a few inches early, 4&#x201D; on wednesday night, and another 6&#x201D; late friday.  On thursday, they did directed skiing at eagle wind for a little bit, and opened it in earnest friday.  Needless to say, that&#x2019;s the first place I headed....&#x2018;twas still closed when I got to the top after dropping off Max, so I did a lap through the bowl.  Decent snow, but I snagged something and popped a ski off...which decided to go about another 50&#x2019; downhill.  Did a tele impression to go get it...&#xD;&#xD;Max&#x2019;s group was a little slower, but they hit the traverse right as they were opening it....they got first tracks.  They were stoked.  :)  I hit it on my second lap...they had open all the way over to the cliff at black coal...and you could scoot under that.  Good snow in there...and got karma points for helping a couple folks...including one gentleman wigging out &#x2018;cause he couldn&#x2019;t find his ski.  (Don&#x2019;t worry, I&#x2019;ll stay with you...)&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="2_Entry_1_files/shapeimage_1.png" left="0px" top="0px" width="373px" height="284px"/>
+</content>

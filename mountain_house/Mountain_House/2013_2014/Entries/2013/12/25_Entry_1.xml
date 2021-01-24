@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="FDDC2949-73CB-4522-8920-DDA5BFA3F56E">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:16:54 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Xmas with Max&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, December 25, 2013&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;On monday, James came out with Mat...Max and I skied with them a little.  Mat and Max hit it off...they took turns jumping off stuff.&#xD;&#xD;Xmas comes along; Max and I head out again, this time with the cam.  &lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="25_Entry_1_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

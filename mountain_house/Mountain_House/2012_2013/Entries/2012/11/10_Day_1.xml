@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="88A9F09D-FD44-4A1E-9657-DEA0E35D8384">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:16:02 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Day #1&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, November 10, 2012&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Copper is open, with their IROD below the Eagle lift.  They&#x2019;ve got super-bee and copperopolis also open, but race only.  Headed up with Max today...they were supposed to get a bunch of snow.  While they got some, it wasn&#x2019;t an epic dump.  Still, better than nothing...&#xD;&#xD;...oh, and Max loves his new skis...K2 Juvy 139s.&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="10_Day_1_files/shapeimage_1.png" left="0px" top="0px" width="329px" height="294px"/>
+</content>

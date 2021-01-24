@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="A1219B8D-2973-46FD-8BB1-40BCF8C95E47">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:15:53 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Spring Break&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Tuesday, March 27, 2012&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Everything is melting quickly, and we&#x2019;re in that spring condition time where the mornings are icy and the afternoons are slushy.  Even the CH10 sticks when the outside temp gets above 50....but it&#x2019;s good core muscle work.  :)&#xD;&#xD;Saturday Max had Freestyle tryouts with Jenn...he did really well.  She said he&#x2019;s *defintly* ready for the freestyle program, if he&#x2019;s ready to push himself.  He wasn&#x2019;t so sure, but she told him she thinks he should.  I think he likes her as a coach.  &#xD;&#xD;Sunday was playing around...took some vids.  Will merge &#x2018;em into a master video for the week later.&#xD;&#xD;Monday was *supposed* to be a day of rest for me, but I experimented with sandpaper and structure.  Note:  I&#x2019;m *never* doing that again.  Only did one ski, and it was really tough getting the ptex hairs back under control.  Went out to do a couple &#x201C;experiment&#x201D; runs, and I couldn&#x2019;t tell a difference.  The good news is that I didn&#x2019;t make that ski worse!&#xD;&#xD;Gunter&#x2019;s been sick, and Max and Mom wanted an adventure day, so I went out solo today.  NO ONE was at the resort...showed up at about 10, and got prime parking at the MJ base.  Cruising the groomers was the way to go...made my way over to pioneer.  Sundance is closed due to grass, but you can do lift line, and then they had buckaroo, Quickdraw, and Shootout open.  Did some speed runs there.  Also had some fun in the Jabberwocky bumps...hit &#x2018;em as quick as I could.&#xD;&#xD;Closures:  the top cruisers at Vasquez, bumpy part of columbine, trestle and the rest of challenger around to boiler, and Outhouse.  The bottom is pretty slushy...I *really* don&#x2019;t think they&#x2019;re gonna make it to mid april.&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="27_Spring_Break_files/shapeimage_1.png" left="0px" top="0px" width="309px" height="310px"/>
+</content>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="88A9F09D-FD44-4A1E-9657-DEA0E35D8384">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:16:08 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Gunter &amp; Michelle&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, December 29, 2012&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Pano was scheduled to open today, so I headed straight over there after dropping off Max at Freestyle.  Got early tracks...the trees under the lift were good, but you couldn&#x2019;t turn or you&#x2019;d stop.  The far side of the bowl was pretty good; did some laps through there before meeting up with Gunter and Michelle.  We did a lap through the switchyard trees before heading over to Vasquez.  &#xD;&#xD;The best snow, though, was under pine cliffs.  Did an unintentional 3:57 game (Iron Horse), along with one last run with Gunter through there.&#xD;&#xD;Fun vid below of us playing around.  :)&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="29_Gunter_%26_Michelle_files/shapeimage_1.png" left="0px" top="0px" width="347px" height="287px"/>
+</content>

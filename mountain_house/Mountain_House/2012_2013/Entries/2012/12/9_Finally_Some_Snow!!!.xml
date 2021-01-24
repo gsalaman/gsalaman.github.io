@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="88A9F09D-FD44-4A1E-9657-DEA0E35D8384">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:16:05 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Finally Some Snow!!!&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, December 9, 2012&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;The storm track is changing...Opensnow forecast light showers on friday, with 4-6&#x201D; on Saturday.  Alli had a work party, so Max and I drove up early on friday.  The pass was slick...turns out we got 7&#x201D; of bonus phresheez on friday night.  Mom drove up late that evening, and we had a decent powder day on Saturday, even though all Winter Park still has open is Cranmer, Sale, and the Discovery Park stuff.  It was *very* crowded, but it *did* give me the chance to break out my S7s.  &#xD;&#xD;Got 7&#x201D; on Saturday Night, and Sunday was *COLD*...single digit highs.  Mom &amp; Max decided to stay in, but I put the CH4 on the S7s and went out to get another morning worth of powder.   I&#x2019;m not in mid-season shape, so I quit around lunchtime.&#xD;&#xD;Here are the charts from Sat &amp; Sun.&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="9_Finally_Some_Snow%21%21%21_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

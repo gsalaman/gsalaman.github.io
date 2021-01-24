@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="BC924DA4-9FBE-46BA-8E26-0122E9D93628">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:17:49 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Comp #3:  Vail&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, February 22, 2015&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;4th out of 7&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="22_Comp_3__Vail_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

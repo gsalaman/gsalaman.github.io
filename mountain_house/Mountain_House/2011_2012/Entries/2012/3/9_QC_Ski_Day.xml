@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="A1219B8D-2973-46FD-8BB1-40BCF8C95E47">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:15:53 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;QC Ski Day&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, March 9, 2012&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;This year&#x2019;s destination - Breckenridge.  Take the bus up, get ready to gear up, and I notice I&#x2019;ve got Alli&#x2019;s boots.  Bummer!  Go do the rental thing, and after about an hour, I&#x2019;m ready to hit the slopes.  &#xD;&#xD;Breck&#x2019;s ratings are...shall we say...inflated.  What they are classifying as a black could easily be a blue at WP or Alta.  Did a couple laps off of Peak 10 (Falcon Chair).  To the far left were some double-black bump runs..decided to give them a try.  The coverage over there was *really* bad though...stuff sticking through on *EVERY* mogul.  Finally picked my way down, and started doing the right side (towards peak 9).  Met up with RichardS, RichardR, AJ, CurtM, Matthias, Bijan, and eventually TC there...did some bump runs here, then went over to the imperial chair and the hike.  *Much* tougher hike than Catherine&#x2019;s or the Cirque...you end up at about 13k.  Caught my breath, and we worked our way over to the lake chutes. &#xD;&#xD;They classify these as double-black &#x201C;expert&#x201D; (as opposed to the standard double black), and yeah, it&#x2019;s tough.  Pretty steep drop in...got some shots of the crew.&#xD;&#xD;Bus ride back was standard....which is a good thing.&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="9_QC_Ski_Day_files/shapeimage_1.png" left="0px" top="0px" width="517px" height="431px"/>
+</content>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="88A9F09D-FD44-4A1E-9657-DEA0E35D8384">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:16:04 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Gunter Weekend&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, December 2, 2012&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Alli had her Vegas race, and Gunter came out to Fraser for some early season.  Still no new snow, but Winter Park finally opened Cranmer on friday.  Note that with Gunter in town, the possibility of chocolate cake sandwiches comes into the picture...&#xD;&#xD;Saturday was Max&#x2019;s first day of Freestyle Devo.  Dave Michel is is coach...they did some basic stuff, and started learning rails.  Very cool...Max was teaching me &amp; Gunter on Sunday (and I&#x2019;m still not ready for rails...my balance &amp; confidence ain&#x2019;t there yet.)  Max is getting it though. :)  &#xD;&#xD;Sunday, Max tried to teach Gunter and me the rail stuff he learned yesterday.  While I&#x2019;m hopeless, Gunter did okay.  A couple pics:&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="2_Gunter_Weekend_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="417px"/>
+</content>

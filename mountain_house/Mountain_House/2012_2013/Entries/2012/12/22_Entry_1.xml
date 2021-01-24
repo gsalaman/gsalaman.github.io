@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="88A9F09D-FD44-4A1E-9657-DEA0E35D8384">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:16:08 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;First Day of Xmas Break&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, December 22, 2012&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Gunter came in last night, and Max had class, so Alli, Gunter and I played around.  They just opened pioneer yesterday, so even though there hasn&#x2019;t been snow for a little while, I still brought out the S7s, as I figured the Buckaroo trees would be glorious.  I was right.  :)&#xD;&#xD;Alli brought out the downhills...I had forgotten how much faster she was on those.  Got some great shots of her turns in the vid below.&#xD;&#xD;We did meet up with Max for lunch.  He was very excited, as they got first tracks down Short Haul, and hucked some of the rocks.  Dangerous!!!&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="22_Entry_1_files/shapeimage_1.png" left="0px" top="0px" width="311px" height="310px"/>
+</content>

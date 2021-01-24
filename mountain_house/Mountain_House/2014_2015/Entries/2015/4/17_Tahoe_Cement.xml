@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="BC924DA4-9FBE-46BA-8E26-0122E9D93628">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:17:49 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Tahoe Cement&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, April 17, 2015&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;A late season storm was heading towards Colorado...WP was supposed to get more than a foot.  I took off thursday night after Max&#x2019;s play, and hit WP.  CRAZY drive...not many folks on the road, but I had to clear ice off the wipers multiple times.&#xD;&#xD;Friday brought 10&#x201D; before the lifts opened, and then another 6&#x201D; during the day.  It got VERY windy after lunch...I barely made it back to the C-lot as all the lifts were shutting down.&#xD;&#xD;Saturday was glorious...awesome laps through Belle.  The blues over at Vasquez still had 1+ feet of powder...and cruising through Buckaroo trees was awesome. &lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="17_Tahoe_Cement_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

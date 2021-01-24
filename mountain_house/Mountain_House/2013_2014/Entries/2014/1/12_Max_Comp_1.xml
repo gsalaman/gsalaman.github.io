@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="FDDC2949-73CB-4522-8920-DDA5BFA3F56E">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:16:57 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Max Comp #1&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, January 12, 2014&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;No Alli this weekend...Kate was in town.   Just the boys...&#xD;&#xD;They had Left Hand open over at Eagle...loads of snow, but a little crusty.  The better news:  all Chutes were open...and I think I had my best run down no-name.  The top of Baldy still has a couple spots that give me trouble.  Note it was *crazy* busy...everyone trying to get that fresh snow day before the Broncos game.  Graphs from Saturday below.&#xD;&#xD;Sunday was the first of the internal series.  Temps were in the low 20s, but it was windy and snowy, which made the conditions tough.  Max was in the group of J5s (9 &amp; 10)...he did a great run and placed 7th!&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="12_Max_Comp_1_files/shapeimage_1.png" left="0px" top="0px" width="477px" height="367px"/>
+</content>

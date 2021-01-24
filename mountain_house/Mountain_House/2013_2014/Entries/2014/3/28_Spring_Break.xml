@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="FDDC2949-73CB-4522-8920-DDA5BFA3F56E">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:17:18 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Spring Break&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, March 28, 2014&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Matthias and Cora came up mid week...had a fun day over at Eagle on Friday with Matthias and Alli darting through the trees. &lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="28_Spring_Break_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

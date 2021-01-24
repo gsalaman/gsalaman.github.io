@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="A1219B8D-2973-46FD-8BB1-40BCF8C95E47">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:15:52 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Alta   &lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, February 20, 2012&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;President&#x2019;s Day Weekend...for the second year in a row, we decide to hit Alta rather than the crowds at WP.  Stayed up at the Goldminer&#x2019;s Daughter, a lodge at the Wildcat base, right at the Wildcat and Collins lifts.  Pretty cool...they did breakfast and dinner, and had a nifty &#x201C;wrecking room&#x201D; (rec room?) that Max dug, with Ping Pong and Pool.&#xD;&#xD;Not as much snow as last year, but still skied the full 3 days.  Here&#x2019;s the vid:&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="20_Alta_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

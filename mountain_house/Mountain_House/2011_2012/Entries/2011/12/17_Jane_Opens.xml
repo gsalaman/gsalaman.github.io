@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="A1219B8D-2973-46FD-8BB1-40BCF8C95E47">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:15:45 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Jane Opens&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, December 17, 2011&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Jane opened on Friday...Max and I headed up on Saturday for ATP Devo.  They had Gandy and Frenchman open Friday, but looking up those trails today, I can see why they were closed today!  They did have the bottoms of Spike and Sterling open...but those were evil.  &#xD;&#xD;Looks like they&#x2019;re prepping Cheshire Cat and Sidetrack/Sleeper...hoping that those will open when Gunter is out.&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="17_Jane_Opens_files/shapeimage_1.png" left="0px" top="0px" width="296px" height="296px"/>
+</content>

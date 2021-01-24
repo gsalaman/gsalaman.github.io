@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="88A9F09D-FD44-4A1E-9657-DEA0E35D8384">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:16:19 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;QC Ski Trip&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, March 8, 2013&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;This year&#x2019;s ski trip was to WP.  I decided to forgo the bus, and drive up separately.  Chris and Ken both wanted to see some of my favorite trees...so I mostly played tour guide all day.  Did laps through upper switchyard and Belle to start off, then played a little under Eagle Wind.  At lunch, Ken, Richard and I decided to hike the cirque...ended up getting a snowmobile ride most of the way there (yay!  Gotta do that more often...)&#xD;&#xD;After lunch was Pine Cliffs, Weather Station, and Runaway...but that side&#x2019;s snow wasn&#x2019;t as good as the north facing stuff up top.  Still, good day...vid below.&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="8_QC_Ski_Trip_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

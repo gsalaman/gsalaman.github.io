@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="88A9F09D-FD44-4A1E-9657-DEA0E35D8384">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:16:26 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;More Cirque&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, April 6, 2013&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Came in from San Diego friday night...they were expecting a little bit of snow, so I went directly from the airport to Fraser.  The weather didn&#x2019;t disappoint:  I woke up to 4&#x201D; of snow on the ground.  &#xD;&#xD;Started with some Belle laps...the top was completely socked in, but they still had the Cirque open.  Waited for the weather to clear, then decided to hike it.  Just got to the point where you start hiking (rather than gliding), and got a page from Matthias.  Met up with him on Eagle Wind, and we went and did Destiny and Waterfall...better snow than last weekend, and still really fun!&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="6_More_Cirque_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

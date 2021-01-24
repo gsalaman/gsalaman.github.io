@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="FDDC2949-73CB-4522-8920-DDA5BFA3F56E">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:16:53 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Xmas break begins&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, December 21, 2013&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Xmas break day #1 had 8&#x201D; of snow on the ground...another S7 day!  Alli brought out the bandits, and we did a bunch of runs together...starting with the warm-up run down outhouse.  Note:  still sketchy.  Hi-Lo trees and Pioneer were where the best snow was...they also opened up the north side of the bowl, which meant you could do the upper switchyard trees.&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="21_Xmas_break_begins_files/shapeimage_1.png" left="0px" top="0px" width="502px" height="343px"/>
+</content>

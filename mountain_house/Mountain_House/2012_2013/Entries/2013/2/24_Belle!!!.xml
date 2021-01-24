@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="88A9F09D-FD44-4A1E-9657-DEA0E35D8384">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:16:15 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Belle!!!&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, February 24, 2013&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;While we were up at Alta, WP finally opened Belle, and had the Cirque open for directed Skiing.  Max had comp#2 on saturday, but he and mom went back that night...so I had a full day of &#x201C;wear Glenn out&#x201D;.  :)&#xD;&#xD;They were supposed to get dumped on, but turns out they only got a couple inches.  Still, the trees were pretty good.  Belle was rocky up at the top, and the powder chute was a minefield (yes, had to fix one core shot...)  The trees were great though...could find stashes of deep pow.&#xD;&#xD;They also opened up the far-side of the cliff on Black Coal, giving access to Left Hand.  Good stuff in there.  No vids, but graphs below:&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="24_Belle%21%21%21_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

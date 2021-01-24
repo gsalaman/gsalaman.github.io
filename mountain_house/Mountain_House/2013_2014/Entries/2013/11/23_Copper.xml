@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="FDDC2949-73CB-4522-8920-DDA5BFA3F56E">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:16:46 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Copper&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, November 23, 2013&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Came up this weekend with Mom and Max.  Checked the reports first thing in the morning...although WP announced Jane is opening on next tuesday, the Zephyr still isn&#x2019;t running (just Sale and all the Discovery Park stuff).  Loveland has some of the blues off of Chair 2 (Firecut &amp; Drifter) and Chair 6 (Keno, Blackjack), but Copper has some of the stuff under Timberline *and* some of the blacks under Excellerator.  I convinced them to do the drive.  :)&#xD;&#xD;[and yes, the drive was a little evil.  almost 2 hrs, bad traffic, slippery conditions.  but it was worth it]&#xD;&#xD;Mom went over to timberline early...Max and I hit the blacks. REAL MOGULS!!!  Yay!!!  Had a blast...vid and stats below.&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="23_Copper_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

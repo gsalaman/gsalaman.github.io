@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="88A9F09D-FD44-4A1E-9657-DEA0E35D8384">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:16:10 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Social Sunday&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, January 20, 2013&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Had Bhavna &amp; her crew come up this weekend...did some skiing on sunday with them.  It was warm, so Alli wore the dress and handed out stickers.  Unfortunately, the helmet cam wasn&#x2019;t behaving, so no shots from the AM.&#xD;&#xD;They took off early; met up with Matthias over at pioneer.  Did a bunch of bumps; Alli was a hit from the folks on the chair.  Did have some shots that turned out from that (although the color is washed out)...clips below.&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="20_Social_Sunday_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="A1219B8D-2973-46FD-8BB1-40BCF8C95E47">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:15:55 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Metrics&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, April 21, 2012&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;With the snowpack melting quickly, and temps in the 70s up at Fraser, I&#x2019;m giving up on the season.  Okay, I really gave up after spring break.  Here are the various breakdowns.&#xD;&#xD;I&#x2019;m not gonna do the &#x201C;days between folks&#x201D; thing here...you should have seen that from the previous page.   First up:  year-over-year comparisons:&lt;/b&gt;</richText>
+  </textBox>
+</content>

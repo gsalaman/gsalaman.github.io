@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="BC924DA4-9FBE-46BA-8E26-0122E9D93628">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:17:42 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;More snow&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, December 14, 2014&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Between Thanksgiving and Sunday, we didn&#x2019;t get any flakes.  Saturday was day 2 of Devo Travel Team for Max with Coach Scott...Alli stayed home, and I went and worked on my moguls.  They had C-lift and Sunnyside open...under C-lift was sketchy (Sleeper, Little Ten, Freeriders, and Phantom).  Same for Sunnyside (Bluebell, Roundhouse, and Edelweiss).  Got some good work in though...charts below.  Oh, and the perfect wax test:  see if you can make it from Super Gauge, down past Olympia and uphill to the top of Cheshire/Jabber without skating.&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="14_Entry_1_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="556px"/>
+</content>

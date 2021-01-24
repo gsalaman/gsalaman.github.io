@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="88A9F09D-FD44-4A1E-9657-DEA0E35D8384">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:16:23 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Pam, Autumn, Gunter, and Chutes&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, March 30, 2013&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Pam and Autumn came up at the end of spring break...we spent the first part of the day being silly.  Alli had her dress, Max got an f-bag with a beard, and Gunter wore an f-bag outta the 80s.&#xD;&#xD;Gunter and I ran off when they hit lunch...and the Chutes were open!  I called Max, and we did a few laps in there.&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="30_Entry_1_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

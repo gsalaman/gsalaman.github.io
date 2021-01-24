@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="FDDC2949-73CB-4522-8920-DDA5BFA3F56E">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:16:43 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Day 1:  Loveland!&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, October 26, 2013&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Loveland opened on the 17th.  They had Lower Richards and Spillway open, and Saturday was supposed to be a nice, warm, no wind day...so I convinced Max to go with me.&#xD;&#xD;Headed up to the mountain house friday night, checked the report again, and Chair 6 was due to open as well...bonus!!!  Saturday morning came along, we grabbed our stuff, scrapped off the storage wax from the Juvys and Rockers, and headed across the pass.  Good day...while it took me a little to find my balance, Max was a rockstar right away.&#xD;&#xD;Typical speed chart for early season:  2:1 lift to run.  &lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="26_Day_1__Loveland%21_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

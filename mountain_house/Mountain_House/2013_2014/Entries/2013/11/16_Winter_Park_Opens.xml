@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="FDDC2949-73CB-4522-8920-DDA5BFA3F56E">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:16:45 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Winter Park Opens   &lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, November 16, 2013&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Mom had a race in Vegas, so Max and I headed up to the mountain house.  WP had opened on wednesday with parkway and porcupine...Max and I decided to check the snow report first thing in the morning to decide where to go.&#xD;&#xD;Loveland has Drifter and Firecut under chair 2...they got 2&#x201D; of snow.&#xD;Copper opened up the flyer on friday...they had 5&#x201D; of new snow.&#xD;Bad news for both:  cold and windy, so we decided to just hit the local mountain.  Not the most challenging terrain, but at least we had fun...and I spotted these two:&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="16_Winter_Park_Opens_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="A1219B8D-2973-46FD-8BB1-40BCF8C95E47">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:15:43 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Thanksgiving Report&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, November 27, 2011&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Went up to Fraser after the big meal with my parents on thursday.  Looked at the report between WP and copper...copper had more stuff open.  Max decided he didn&#x2019;t want to ski, and Mom was &#x201C;iffy&#x201D;, so they stayed back, whilst I drove down to copper.  Did the pass rather than 9 through Kremmling; takes about 75 min with clear roads and limited traffic.  They opened Windsong under the timberline, so I could bomb that run.  Checked Phresheez, thought the speed must be a mistake, so bombed it again.  Here are the charts:&lt;/b&gt;</richText>
+  </textBox>
+</content>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="88A9F09D-FD44-4A1E-9657-DEA0E35D8384">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:16:14 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Alta&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, February 17, 2013&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;For the second year in a row, we avoided the crowds at WP and spent the weekend up in the Goldminer&#x2019;s Daughter up in Alta.  This year, the snow wasn&#x2019;t as good, but still got 3 days of good skiing in.  They had more of the Greeley area open...Gunter, Max and I explored over there.  Alta is much more about steeps, and not so much about bumps....I&#x2019;m glad that I had that lesson with Tom that showed me how to get over my edges!&#xD;&#xD;One highlight:  I saw Chuck Mumford (from GNAR), and gave him the pro call-out! &#xD;&#xD;Vid below...&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="17_Alta_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="A1219B8D-2973-46FD-8BB1-40BCF8C95E47">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:15:46 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Copper Cruisers&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, December 26, 2011&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;G&#xFC;nter and I did a run to Copper on Monday...figured that if it was cruiser day, we&#x2019;d go someplace with more stuff open.  They definitely had more terrain than winter park, but still, mostly just cruisers.  The bumps were in about the same troughed-out rocky condition.  &#xD;&#xD;It was a little more crowded than earlier in the season, so I wasn&#x2019;t able to go full throttle on some of the runs, but still, respectable speeds. :)&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="26_Entry_1_files/shapeimage_1.png" left="0px" top="0px" width="307px" height="307px"/>
+</content>

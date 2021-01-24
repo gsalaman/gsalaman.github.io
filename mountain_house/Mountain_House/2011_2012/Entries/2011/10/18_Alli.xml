@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="A1219B8D-2973-46FD-8BB1-40BCF8C95E47">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:15:40 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Alli Gets Day #1 &lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Tuesday, October 18, 2011&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wolf Creek opened the weekend of the 8th...they got 3&#x2019; of freshies.  A-Basin opened last thursday, beating out Loveland, who opened last friday.  &#xD;&#xD;Alli once again wins the &#x201C;first turns&#x201D; award this year...while they only had the &#x201C;icy ribbon of death&#x201D; open, she still was skiing while we all were working.&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="18_Alli_files/shapeimage_1.png" left="0px" top="0px" width="285px" height="383px"/>
+</content>

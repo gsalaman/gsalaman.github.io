@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="FDDC2949-73CB-4522-8920-DDA5BFA3F56E">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:16:56 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Eagle Wind with Gunter&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, January 3, 2014&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Spent most of the day with Gunter doing the Eagle Wind trails.  At the beginning, you had to cut over after going down a little to the trees...rocky up there.  Just as we were about to bail, we saw patrol opening up the top road, with the warning:  it&#x2019;s rocky in there!  We blitzed over to the Black Coal rope...good snow, but yeah, the occasional rock.  Best snow was tucked under the trees after the cliff, heading towards left hand.&#xD;&#xD;Bailed out and did a run with Alli (it was a Jane day).  Last run of the day:  Runaway South was open...but probably shouldn&#x2019;t have been.&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="3_Eagle_Wind_with_Gunter_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="FDDC2949-73CB-4522-8920-DDA5BFA3F56E">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:16:59 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Belle&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, February 1, 2014&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;The storms have returned!  Tuesday AM brought 11&#x201D; to WP, followed by another 11&#x201D; on Thursday and 14&#x201D; on Friday.  With the big game on Sunday, everyone was heading up for Saturday.&#xD;&#xD;Dropped Max off at comp center Saturday AM, then Alli and I headed straight for Belle.  Glorious!  Alli bailed; I did another lap in there, and then the Eagle had mechanical issues.  Got stuck on the egress for a while before bailing out to Pioneer (which then also had evil lines).  Worked my way back to Jane...good snow in the trees over there (Frenchy, Tophers...)  Vid below.  &#xD;&#xD;&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="1_Belle_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

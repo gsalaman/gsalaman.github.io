@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="88A9F09D-FD44-4A1E-9657-DEA0E35D8384">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:16:07 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;More Snow&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, December 16, 2012&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Woke up, and WP reported 5 more inches.  The deck didn&#x2019;t indicate that much, but still, I grabbed the S7s and went out early with Max.  Got on the hill...I think they under-reported, and it snowed pretty much all day.&#xD;&#xD;We started off over on Jane and then headed over to Zephyr....they said they were gonna open Mulligan and Little Pierre today.  We did a lift ride up, and they both looked great...but the rope hadn&#x2019;t dropped.  Ski patrol said &#x201C;about another 15 min&#x201D;, so we waited around.  Unfortunately, a huge crowd formed, and Max got cold, so he went in to warm up while I did a lap.  He wasn&#x2019;t into doing the run, so I did it solo...and found goob after goob strewn across the run looking for their skis.  Heh.  &#xD;&#xD;Mom came and got Max around lunch, and I did loads of laps through the HiLo trees, and by that time, Mulligan had turned into some decent moguls.  Still some nasties sticking out, but not as bad as last year.&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="16_More_Snow_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

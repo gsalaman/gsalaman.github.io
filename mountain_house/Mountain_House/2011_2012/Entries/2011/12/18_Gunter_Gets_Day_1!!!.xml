@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="A1219B8D-2973-46FD-8BB1-40BCF8C95E47">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:15:44 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;G&#xFC;nter Gets Day 1!!!&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, December 18, 2011&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Started over at the Zephyr; worked our way over to Jane fairly quickly.  No Cheshire Cat, but Sidetrack and Sleeper were open.  One run down there, and Alli&#x2019;s calves weren&#x2019;t happy with her, so Gunter, Max, and I did a couple laps.  After lunch, they opened up Gandy again...MUCH softer and less nasties than it looked from the bottom.  Max was done after a little, so Mom came and got him, and Gunter and I played around some more....hit more bumps, a little trees, and some jumps.&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="18_Gunter_Gets_Day_1%21%21%21_files/shapeimage_1.png" left="0px" top="0px" width="303px" height="299px"/>
+</content>

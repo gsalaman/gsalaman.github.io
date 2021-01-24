@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="A1219B8D-2973-46FD-8BB1-40BCF8C95E47">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:15:48 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Max&#x2019;s Freestyle Competition&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, January 8, 2012&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Did get a little snow yesterday...WP reports 6.5&#x201D;.  They still only have Phantom Bridge, Little 10, and Freeriders open over at the C-lift, and they&#x2019;re sketchy.  No sunnyside, parsenn, or eagle wind yet either...Retta&#x2019;s, Outrigger, Over-and-underwood and Engledive are still closed as well...and Pioneer is sketchy.&#xD;&#xD;The comp center put on a mini competition today...Max wasn&#x2019;t so sure to start, but after talking to Dave (and running the course a bunch) yesterday, he decided to sign up.&#xD;It was a course on Lower Parkway...some tight alpine turns, then a bump field, then going through a couple teepees to the end.  Speed didn&#x2019;t matter; you were judged on form.  Max was in the J6&#x2019;s (8 and under), and he did a great job! &#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;Later that day, we met up with Matthias and played around some.  &lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="8_Maxs_Freestyle_Competition_files/shapeimage_1.png" left="0px" top="0px" width="341px" height="454px"/>
+</content>

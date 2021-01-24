@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="BC924DA4-9FBE-46BA-8E26-0122E9D93628">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:17:46 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Comp #2:  Winter Park&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, February 8, 2015&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Here&#x2019;s the video from Max&#x2019;s second competition.  He ended up taking 3rd (out of 4)&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="8_Entry_1_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

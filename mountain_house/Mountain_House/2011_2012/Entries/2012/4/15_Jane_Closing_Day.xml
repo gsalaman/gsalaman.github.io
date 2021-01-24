@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="A1219B8D-2973-46FD-8BB1-40BCF8C95E47">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:15:54 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Jane Closing Day&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, April 15, 2012&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Jane had an end-of-season treat...6&#x201D; of fresh snow for closing day.  I had the summer storage wax on the S7s, so I scraped it off, and headed out.  Funny, this is the way the resort was *supposed* to look all year long.&#xD;&#xD;We went down for the party in the C-Lot...Alli dressed up as Jane, and Max made a robot costume.  Alli and Max wanted to hang out in the lot, so I ran up and got early tracks. Headed straight for Pano, but they had Animal Control up there to take care of some Moose!  (That lift never did open).  Did a bunch of trees instead...was the first one through the backside switchyard trees.&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="15_Jane_Closing_Day_files/shapeimage_1.png" left="0px" top="0px" width="311px" height="313px"/>
+</content>

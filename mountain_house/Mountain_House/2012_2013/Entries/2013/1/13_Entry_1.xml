@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="88A9F09D-FD44-4A1E-9657-DEA0E35D8384">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:16:09 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Freestyle Competition #1&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, January 13, 2013&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;This weekend was *COLD*...highs in the low single digits.  Got 6&#x201D; of snow friday; tried out the Graphite Zoom.  Note to self:  not a good wax for uber-cold.  Did the CH4 on Sunday....while it&#x2019;s still not good, it&#x2019;s *MUCH* better.&#xD;&#xD;Max had freestyle comp #1; he&#x2019;s now in J5s, so significantly more competition (some of those boys were throwing 360s off the jump).  He still keeps looking better and better.  He&#x2019;d go and do a practice run or two, come in and warm up, then head back out.&#xD;&#xD;Vid below...&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="13_Entry_1_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="A1219B8D-2973-46FD-8BB1-40BCF8C95E47">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:15:42 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Winter Park Opening Day   &lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, November 12, 2011&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Winter Park opened 4 days early; Max and I headed up there after hitting Copper the day before.  Not much open...just the Arrow, Gemini, and Endeavor lifts, with Larry Sale, Parkway, and Porcupine open.  Still, got to play around a little with &#x201C;dueling helmet cams&#x201D;...I&#x2019;m playing with the &#x201C;split image&#x201D; thing in iMovie. &#xD; &lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="12_Winter_Park_Opening_Day_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

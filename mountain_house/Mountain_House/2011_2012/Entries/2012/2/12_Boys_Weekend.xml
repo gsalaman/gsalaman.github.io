@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="A1219B8D-2973-46FD-8BB1-40BCF8C95E47">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:15:51 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Boy&#x2019;s Weekend&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, February 12, 2012&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Alli had rugby in vegas this weekend...Gunter came out, and we carried on the &#x201C;boy&#x2019;s weekend&#x201D; tradition.  He got some Icelandic Keepers...took &#x2018;em in on Saturday to get &#x2018;em mounted, and picked them up on Sunday.&#xD;&#xD;Saturday was spent making laps in the upper switchyard trees.  They had 4&#x201D; for each of the past 3 days, so there was definitely decent snow in there.  Here&#x2019;s the vid from Saturday:&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="12_Boys_Weekend_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

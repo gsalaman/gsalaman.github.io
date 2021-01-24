@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="BC924DA4-9FBE-46BA-8E26-0122E9D93628">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:17:45 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Cirque Laps&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Thursday, March 26, 2015&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;With 8&#x201D; snow monday night, 6&#x201D; tuesday night, and then another 4&#x201D; wednesday, we got enough coverage to open up a bunch more terrain.  Gunter and I started on Belle, and when the Cirque opened, we headed there!  No sled (LAME!!!), but we ended up doing the hike twice. &#xD;&#xD;First lap was down Playing Field to the South Basin...only one set of tracks in front of us there.  &lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="26_Entry_1_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

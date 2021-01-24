@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="A1219B8D-2973-46FD-8BB1-40BCF8C95E47">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:15:49 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Gunter Weekend #1&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, January 22, 2012&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Gunter came out for an extended week now that the terrain is getting better.  We&#x2019;re gonna do the bump jam next wednesday.&#xD;&#xD;They&#x2019;ve opened Trestle and some more of the Challenger runs...long haul/short haul, needle&#x2019;s eye, and boiler.  Cannonball was open on saturday, but not sunday.  Stagecoach is still closed...wind blown!!!  &#xD;&#xD;Got some snow saturday night.  They were forecasting 8-12, but WP only got 5.  Still, better than nothing.  Got out early, and Jane was a madhouse!  Parked at Corona, skied down to Super Gauge, and the singles line was back beyond the ropes!  Did a quick lap through Edelweiss (and cut through the trees to get the pow below pano), but quickly went to Pioneer.  &#xD;&#xD;Saw Matthias, Lucille, and Roland over there.  Did *MANY* loops there; Alli, Gunter, and Max joined us.  Alli quickly went off to find Lucille; Max, Gunter, and I went powder hunting.  Good stuff in the Buckaroo trees (but make sure you turn at the road, no matter *what* Gunter says).  Did living room, the weather station, brakeman trees, and wildwood before Max and Gunter bailed.  Met up with Matthias again...took him into lower Topher&#x2019;s, and did Needle&#x2019;s Eye.  He bailed back to the base; I did one more run through the brakeman trees.&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="22_Weekend_With_Gunter_files/shapeimage_1.png" left="0px" top="0px" width="298px" height="298px"/>
+</content>

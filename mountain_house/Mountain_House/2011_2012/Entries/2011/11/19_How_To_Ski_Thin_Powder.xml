@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="A1219B8D-2973-46FD-8BB1-40BCF8C95E47">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:15:42 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;How To Ski Thin Powder&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, November 19, 2011&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Headed up solo to Copper; they opened the Flyer lift yesterday.  Coin flip between them and Loveland...Copper&#x2019;s top-to-bottom doing Excellerator was more appealing.  Good choice...there were some bumps cutting through to Mine Dump, and they opened some of Hallelujah for part of the day.&#xD;&#xD;The vid from below:  cutting from Mine Dump to Trail #20, and hitting some powder.  Alli is pleased to see that this is one of the few times I fell *forward* (rather than back-seating it).  I love the cheering from the lift afterwards...&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="19_How_To_Ski_Thin_Powder_files/shapeimage_1.png" left="0px" top="0px" width="301px" height="301px"/>
+</content>

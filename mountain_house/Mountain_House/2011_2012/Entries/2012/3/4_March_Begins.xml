@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="A1219B8D-2973-46FD-8BB1-40BCF8C95E47">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:15:52 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;March Begins&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, March 4, 2012&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;So last weekend, Alli had a bunch of Rugby folks up.  The conditions were pretty evil though.  Did a couple laps through Eagle Wind; pretty windblown.  Went down to Pioneer, met up with Max&#x2019;s class, just in time for the lift to be shut down due to wind.  We hiked up, and got a snowmobile tow out.  Dave &amp; the rest of the ATP Devo crew kept going, even though only Arrow and Gemini were open...and eventually they opened Eskimo back up.&#xD;&#xD;This weekend, Max was sick saturday morning, so I went out solo.  COLD day...mostly due to wind chill.  Still made it from lifts open straight through to a little before 3.  The annoying news:  Phresheez didn&#x2019;t track me last sunday, nor on the 3rd.  Took a peek at it, and it says it&#x2019;s having trouble storing the data. I&#x2019;ll ping the guys over there and see what they say.&#xD;&#xD;Today was a Max day...much better weather.  We did a bunch of laps through Eagle Wind (found the Mayor&#x2019;s office!), Pioneer, and Jane-side bumps.  Oh, and in case you didn&#x2019;t notice from the picture above, Runaway (and the Chutes!) were open.&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="4_March_Begins_files/shapeimage_1.png" left="0px" top="0px" width="435px" height="484px"/>
+</content>

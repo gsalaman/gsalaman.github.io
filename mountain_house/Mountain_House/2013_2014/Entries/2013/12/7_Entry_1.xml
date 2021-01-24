@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="FDDC2949-73CB-4522-8920-DDA5BFA3F56E">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:16:50 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;The Ridge Opens&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, December 7, 2013&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Gunter and Karen came out for the weekend.  Saturday, Max had his first Comp Center day of the season (with Jody)...Gunter and Karen were sleeping in, so after a few runs with Alli (and some encouragement), I went to hit the newly opened Vasquez Ridge.  Buckaroo trees were *awesome* in there....easy to make fresh tracks!!&#xD;&#xD;Other openings:  the C-lift has everything around to Needles Eye.  Sunnyside has Roundhouse, Bluebell, and Edleweiss (no Columbine or Trestle yet).  Sidetrack is open, but no Pine Cliffs or Sleepy Hollow (so no Sleepy-trees).  Everything except the top is open under the horse...you can cut over now even higher (drops ya right below the rocky-nasty section on Arrowhead).  And, they dropped the rope on outhouse...but that&#x2019;s probably still one of the sketchiest runs out there.&#xD;&#xD;COLD weekend...Saturday didn&#x2019;t feel that bad with the sun shining and teens for temp, but Sunday was single digit.  Yay for CH4.&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="7_Entry_1_files/shapeimage_1.png" left="0px" top="0px" width="634px" height="400px"/>
+</content>

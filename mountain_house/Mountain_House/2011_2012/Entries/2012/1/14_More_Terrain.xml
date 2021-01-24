@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="A1219B8D-2973-46FD-8BB1-40BCF8C95E47">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:15:48 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;More Terrain  &lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, January 14, 2012&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;WP got more snow this week...they reported 5&#x201D; on tuesday and another 4&#x201D; on wednesday.  I started off with Over&#x2019;N&#x2019;Underwood and Engledive...decent.  Still some nasties, but not too bad.  Did Outhouse next...better than Frenchman&#x2019;s been.  Then went over to the sunnyside, where they had Roundhouse, Bluebell, and the bottom of Edelweiss open.  The bottom section of roundhouse, black section of Columbine, Trestle, and the top of Edelweiss were all closed down.  Not really worth the cruisers...I did Riflesight next.  Decent over there.  Saw the Iron Horse was running, so I *had* to do that.  The top of Arrowhead had a really tough rocky section, but you could ditch around to Spike, and then hit Arrowhead.&#xD;&#xD;The best snow, though, was over on Gambler.  Met Matthias over there...we did a bunch of laps.  Had to finish up on Retta&#x2019;s and Little Pierre.  Good day...&#xD;&#xD;&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="14_More_Terrain_files/shapeimage_1.png" left="0px" top="0px" width="299px" height="299px"/>
+</content>

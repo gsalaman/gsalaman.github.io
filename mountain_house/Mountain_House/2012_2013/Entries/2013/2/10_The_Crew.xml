@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="88A9F09D-FD44-4A1E-9657-DEA0E35D8384">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:16:13 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;The Crew&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, February 10, 2013&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Gunter came out again this weekend, and we got *another* shot of snow (yay!)  Alli met up with Caitlin, Miles, and Carolyn on Saturday, and convinced them to stay Saturday night.  Gunter convinced Michelle to come out Sunday...so we had a sizeable crew on the hill.&#xD;&#xD;Got some film of Max doing Pony, and showed &#x2018;em around the sleepy trees and Eagle.  Max&#x2019;s gloves were cold, so swapped out with Mom over at Pioneer, where after a lunch break, convinced him to get going again.  Met up with Matthias and Ray over there...did a couple laps before Mom and Max did a lunch break.  Gunter, Michelle, and I then finished out the day...&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="10_The_Crew_files/shapeimage_1.png" left="0px" top="0px" width="311px" height="313px"/>
+</content>

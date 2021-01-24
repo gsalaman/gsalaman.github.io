@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="88A9F09D-FD44-4A1E-9657-DEA0E35D8384">
+  <lastEdited clientType="local-build-20210123" date="2021-01-24 01:16:18 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Max Day   &lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, March 10, 2013&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;With the potential for Chutes and Cirque, Max decided to ski with me today.  We had an additional 5&#x201D; on top of yesterday&#x2019;s goodness making the conditions pretty good!&#xD;&#xD;Went straight for the top in hopes of the cirque, but when we got there, Pano wasn&#x2019;t open.  The chutes were, so we headed there...did &#x201C;no name&#x201D; first.  Pretty steep, definitely outta my comfort zone, but Max gave me some great tips (and yes, he totally ripped the **** outta it).&#xD;&#xD;Next lap:  Upper Tophers, from the Trestle side.  We went a little further than my entrance from a couple years ago...while still steep, with that snow, it was a blast.  Next lap:  more chutes.  Max did Jeff&#x2019;s...but it was a little too narrow for me (not *quite* enough snow) so I did no name again.&#xD;&#xD;Pano was open, so we headed for the top.  Still no cirque, so we did Belle...and the conditions were *great* in there.  Vid below...had cams on both me and max.&#xD;&#xD;Lunch after that...good run through the west-side columbine trees, more tophers, more chutes (including baldy...the steepest/scariest thing I think I&#x2019;ve skied).  Good stuff!!!&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="10_Max_Day_files/shapeimage_1.png" left="0px" top="0px" width="308px" height="301px"/>
+</content>

@@ -8,7 +8,7 @@
     <richText>&lt;b&gt;Sunday, March 15, 2015&lt;/b&gt;</richText>
   </textBox>
   <textBox id="generic-body-attributes" dynamic="no" visible="yes">
-    <richText>&lt;b&gt;3rd out of 4.  Hardware.&lt;/b&gt;</richText>
+    <richText>&lt;b&gt;15_Entry_1.xml...space for rent&lt;/b&gt;</richText>
   </textBox>
   <image id="generic-picture-attributes" dynamic="no" visible="yes" src="15_Entry_1_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
 </content>

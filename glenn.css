@@ -68,9 +68,21 @@ body,td,th {
   color: white;
 }
 
-.blogThumb {
-	position: relative;
-	left: 50px;
-	width:100px;
-	color: white;
+thumbImg {
+  border: 1px solid #ddd; /* Gray border */
+  border-radius: 4px;  /* Rounded border */
+  padding: 5px; /* Some padding */
+  width: 150px; /* Set a small width */
 }
+
+a {
+  color: #000000;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+a:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}
+	

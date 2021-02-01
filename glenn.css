@@ -1,5 +1,9 @@
 @charset "UTF-8";
 /* CSS Document */
+body,td,th {
+	
+    font-family:'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
+}
 
 /* Container holding the image and the text */
 .HeaderPic {
@@ -51,8 +55,22 @@
   width: 90%;
 }
 
+.GlennText {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
 .imageContainer {
   position: relative;
   text-align: center;
   color: white;
+}
+
+.blogThumb {
+	position: relative;
+	left: 50px;
+	width:100px;
+	color: white;
 }

@@ -119,7 +119,7 @@ a:hover {
 .grid_items {
 	padding: 3.75%;
 	display: grid;
-	grid-template-columns: 40% 40%;
+	grid-template-columns: 30% 30% 30%;
 	grid-template-rows: 150px;
 	grid-column-gap: 5%;
 	grid-row-gap: 80px;
@@ -141,7 +141,7 @@ a:hover {
 .evo_link {
 	border: 1px solid #d00;
 	box-shadow: 10px 10px 5px;
-	grid-column:1/3;
+	grid-column:1/4;
 	text-align:center;
 }
 
